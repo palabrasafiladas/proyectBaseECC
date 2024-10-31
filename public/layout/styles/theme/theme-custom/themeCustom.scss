@@ -1,0 +1,15 @@
+// Define las variables de colores para tu tema personalizado
+$primaryColor: #d7f163 !default;
+$primaryLightColor: #c7d2fe !default;
+$primaryDarkColor: #4f46e5 !default;
+$primaryDarkerColor: #97ca38 !default;
+$primaryTextColor: #ffffff !default;
+$primary500: #6366f1 !default;
+
+$highlightBg: #eef2ff !default;
+$highlightTextColor: $primaryDarkerColor !default;
+$highlightFocusBg: rgba($primaryColor, 0.24) !default;
+
+// Otras variables de colores personalizadas
+$secondaryColor: #ff9800; 
+$accentColor: #4caf50; 
